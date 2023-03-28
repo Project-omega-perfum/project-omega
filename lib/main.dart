@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:project_omega/screens/home/home_screen.dart';
+import 'package:project_omega/screens/onboarding/onboarding_screen.dart';
+import 'package:project_omega/screens/welcome/welcome_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
